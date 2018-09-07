@@ -4360,5 +4360,11 @@
     "symbol": "ZST",
     "decimal": 8,
     "type": "default"
+  },
+  {
+    "address": "0x62aaF435273bc4baA78DcEbD6590042D7E58ba6F",
+    "symbol": "CVN",
+    "decimal": 5,
+    "type": "default"
   }
 ]
